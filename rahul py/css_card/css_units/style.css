@@ -1,0 +1,40 @@
+.parent{
+    width: 600px;
+    height: 400px;
+    background-color: blueviolet;
+    border: 2px solid olive;
+}
+.child{
+    width: 400px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid blanchedalmond;
+}
+.container{
+    width: 50%;
+    height: 400px;
+    background-color: blueviolet;
+    border: 2px solid orange;
+    border-radius: 5px;
+    color: beige;
+}
+.row{
+    width: 50%;
+    height: 200px;
+    background-color: aqua;
+    border: 2px solid rebeccapurple;
+    border-radius: 5px;
+    color: bisque;
+}
+.card{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    border: 2px solid orchid;
+}
+.card>img{
+    width: 75%;
+
+    height: 375px;
+}
+}

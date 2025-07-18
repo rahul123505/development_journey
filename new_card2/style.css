@@ -1,0 +1,30 @@
+.parent{
+    width: 50%;
+    height: 300px;
+    background-color: yellow;
+    border-radius: 5px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.child{
+    width: 90%;
+    height: 200px;
+    background-color: white;
+    border: 2PX solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    align-items: ;
+    
+    
+}
+.sub{
+    width: 25%;
+    height: 150px ;
+    border: 2px solid black;
+    background-color: aqua;
+    display: flex;
+    align-items: start;
+}

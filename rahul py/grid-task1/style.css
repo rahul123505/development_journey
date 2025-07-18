@@ -1,0 +1,14 @@
+.grid-container{
+    width: 75%;
+    height: 400px;
+    border: 2px solid red;
+}
+.grid-item{
+    background-color: aqua;
+    color: white;
+}
+.grid-item:nth-child(1){
+    grid-column-start: 1;
+    grid-column:-end;
+
+}

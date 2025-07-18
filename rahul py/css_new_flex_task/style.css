@@ -1,0 +1,23 @@
+.container{
+    height: 400px;
+    width: 75%;
+    border: 1px solid red;
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.widget{
+    height:300px;
+    width: 40%;
+    background-color: aliceblue;
+    background-color: 2px solid greenyellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+.item{
+    height: 100px;
+    width: 30;
+    background-color: aqua;
+    border: 2px solid orchid;
+}
