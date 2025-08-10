@@ -1,0 +1,6 @@
+print("simple and easy to learn")
+print("objective and functional")
+print("open source")
+print("interpeter")
+print("interpeter\nlarge community")
+print("large\tcommunity")
